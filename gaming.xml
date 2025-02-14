@@ -1,0 +1,6 @@
+<feeds title="Top Stories - Gaming News">
+<feed url="https://toucharcade.com/feed/" name="TouchArcade" file="toucharcade.html"/>
+<feed url="https://www.ign.com/rss/articles/feed" name="IGN" file="ign.html"/>
+<feed url="https://www.gamespot.com/feeds/mashup/" name="GameSpot" file="gamespot.html"/>
+<feed url="https://www.polygon.com/rss/index.xml" name="Polygon" file="polygon.html"/>
+</feeds>

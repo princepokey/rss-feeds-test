@@ -1,0 +1,6 @@
+<feeds title="Top Stories - Politics News">
+<feed url="https://www.buzzfeed.com/politics.xml" name="BuzzFeed Politics" file="buzzfeed.html"/>
+<feed url="https://moxie.foxnews.com/google-publisher/politics.xml" name="FOX News" file="fox.html"/>
+<feed url="https://feeds.washingtonpost.com/rss/rss_election-2012" name="Washington Post" file="washingtonpost.html"/>
+<feed url="http://rss.cnn.com/rss/cnn_allpolitics.rss" name="CNN" file="cnn.html"/>
+</feeds>
