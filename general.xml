@@ -1,7 +1,6 @@
 <feeds title="Top Stories - General News">
 <feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss" name="NASA Breaking News and Other" file="nasa.html"/>
 <feed url="http://feeds.arstechnica.com/arstechnica/index.rss" name="Ars Technica" file="ars.html"/>
-<feed url="https://www.osu.edu/rss.php" name="Ohio State University Features" file="osu.html"/>
 <feed url="https://abcnews.go.com/abcnews/usheadlines" name="ABC News" file="abc.html"/>
 <feed url="https://www.newyorker.com/feed/news" name="The New Yorker" file="newyorker.html"/>
 </feeds>
